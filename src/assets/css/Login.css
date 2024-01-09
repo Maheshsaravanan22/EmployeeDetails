@@ -1,0 +1,9 @@
+.bd-cnt
+{
+    justify-content: space-between !important;
+    align-items: center;
+}
+.col-auto {
+    flex: 0 0 auto;
+    width: auto;
+  }

@@ -1,0 +1,28 @@
+.css-1nrlq1o-MuiFormControl-root {
+    display: block !important;
+}
+
+.css-1oqqzyl-MuiContainer-root {
+    display: grid !important;
+
+}
+
+.main-container {
+    justify-content: center;
+    margin: 5% auto 0 auto;
+}
+
+.input{
+    width: 450px;
+  
+}
+.form-control-main{
+    margin:inherit !important;
+}
+.add-button{
+    width: 450px;
+}
+.Table-pagination{
+    margin-top: 2% !important;
+    margin-bottom:2% !important;
+}
